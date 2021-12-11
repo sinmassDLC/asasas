@@ -33,6 +33,7 @@ a:link {
 }
 a:hover {
     color: #ffd700;
+    text-decoration: underline;
 }
 
 a:active {
